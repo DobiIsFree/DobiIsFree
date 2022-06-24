@@ -7,7 +7,7 @@
       <span>💬 CLICK ME!</span>
       <br/><br/>
 <a href="https://dobiisfree.github.io/">
-      <img src="https://user-images.githubusercontent.com/52994616/175551652-2b03555e-b69a-4a3a-bbd4-efb3d7beba4a.png" alt="profile" height="200" width="153" r"/>
+      <img src="https://user-images.githubusercontent.com/52994616/175568347-18feaf11-ee40-4c06-9e50-1c26deac976e.png" alt="profile" height="200" width="153" r"/>
 </a>
 </p>
 
