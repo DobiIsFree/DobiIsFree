@@ -4,7 +4,7 @@
 
 <br>
 
-![profile](/DobiIsFree.github.io/assets/img/test.png)
+![profile](/../DobiIsFree.github.io/assets/img/test.png)
 
 <h3 align="center"><b> 🧸 Skills </b></h3>
 <p align="center">
