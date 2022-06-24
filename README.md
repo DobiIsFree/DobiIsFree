@@ -5,6 +5,7 @@
 <br>
 <p>
       <span>💬 visit blog? CLICK ME!</span>
+      <br/>
 <a href="https://dobiisfree.github.io/">
       <img src="https://user-images.githubusercontent.com/52994616/175551652-2b03555e-b69a-4a3a-bbd4-efb3d7beba4a.png" alt="profile" height="200" width="153" r"/>
 </a>
