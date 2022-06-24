@@ -3,11 +3,12 @@
 ### Hi there 👋
 
 <br>
-
+<p>
 <a href="https://dobiisfree.github.io/">
-      <img src="https://user-images.githubusercontent.com/52994616/175551652-2b03555e-b69a-4a3a-bbd4-efb3d7beba4a.png" alt="profile" height="200" width="153"/>
+      <img src="https://user-images.githubusercontent.com/52994616/175551652-2b03555e-b69a-4a3a-bbd4-efb3d7beba4a.png" alt="profile" height="200" width="153" style="float:left;"/>
 </a>
-
+      - visit blog
+</p>
 
 <h3 align="center"><b> 🧸 Skills </b></h3>
 <p align="center">
