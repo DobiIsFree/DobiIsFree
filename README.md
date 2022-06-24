@@ -1,3 +1,49 @@
+<style>
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #9fc5e8;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+  padding: 20px 20px;
+  border-radius: 50%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '💬';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 20px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.button:hover {
+  background-color: #FFD966;
+}
+</style>
+
+### Hi there 👋
+
+<br>
+<button class="button" onclick="https://dobiisfree.github.io/" style="vertical-align:middle"><span>VISIT</span><img src="DobiIsFree.github.io /assets/img/test.png"></button>
+
 ### Hi there 👋
 
 <h3 align="center"><b> 🧸 Skills </b></h3>
