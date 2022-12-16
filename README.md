@@ -17,13 +17,17 @@
 <a href="https://paatata.tistory.com/">
 <img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="70" r"/>
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/🎄Daily Blog-FFFEA0"/>
+<img src="https://img.shields.io/badge/Github Blog-FFC2D6"/>
+<img src="https://img.shields.io/badge/Tech Blog-E7E4E5"/>
 </p>
 
 <br>
 <br>
-<p align="center">
-![🎄일상](https://img.shields.io/badge/🎄일상-ffff99)
-</p>
+
 
 <h3 align="center"><b> 🧸 Skills </b></h3>
 <p align="center">
