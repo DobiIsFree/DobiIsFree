@@ -7,7 +7,11 @@
       <span>💬 CLICK ME!</span>
       <br/><br/>
 <a href="https://dobiisfree.github.io/">
-      <img src="https://user-images.githubusercontent.com/52994616/175568347-18feaf11-ee40-4c06-9e50-1c26deac976e.png" alt="profile" height="200" width="153" r"/>
+      <img src="https://user-images.githubusercontent.com/52994616/175568347-18feaf11-ee40-4c06-9e50-1c26deac976e.png" alt="profile" height="170" r"/>
+</a>
+<br><br>
+<a href="https://paatata.tistory.com/">
+<img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="70" r"/>
 </a>
 </p>
 
