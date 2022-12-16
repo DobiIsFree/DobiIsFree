@@ -6,6 +6,10 @@
 <p align="center">
       <span>💬 CLICK ME!</span>
       <br/><br/>
+<a href="https://blog.naver.com/ommozzang">
+<img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="70" r"/>
+</a>
+<br><br>
 <a href="https://dobiisfree.github.io/">
       <img src="https://user-images.githubusercontent.com/52994616/175568347-18feaf11-ee40-4c06-9e50-1c26deac976e.png" alt="profile" height="170" r"/>
 </a>
@@ -13,6 +17,14 @@
 <a href="https://paatata.tistory.com/">
 <img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="70" r"/>
 </a>
+
+<br><br>
+
+![Badge](https://img.shields.io/badge/🎄일상-ffff99.svg?{ style(optional) })
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
+
 </p>
 
 <br>
