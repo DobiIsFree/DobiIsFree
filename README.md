@@ -7,15 +7,15 @@
       <span>💬 CLICK ME!</span>
       <br/><br/>
 <a href="https://blog.naver.com/ommozzang">
-<img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="70" r"/>
+<img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="65" r"/>
 </a>
-<br><br>
+<br>
 <a href="https://dobiisfree.github.io/">
       <img src="https://user-images.githubusercontent.com/52994616/175568347-18feaf11-ee40-4c06-9e50-1c26deac976e.png" alt="profile" height="170" r"/>
 </a>
-<br><br>
+<br>
 <a href="https://paatata.tistory.com/">
-<img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="70" r"/>
+<img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="65" r"/>
 </a>
 
 <br>
@@ -23,6 +23,11 @@
 <img src="https://img.shields.io/badge/🎄Daily Blog-FFFEA0"/>
 <img src="https://img.shields.io/badge/Github Blog-FFC2D6"/>
 <img src="https://img.shields.io/badge/Tech Blog-E7E4E5"/>
+
+<br>
+<br>
+<img src="https://img.shields.io/badge/YouTube-E7E4E5?style=social&logo=youtube"/>
+
 </p>
 
 <br>
