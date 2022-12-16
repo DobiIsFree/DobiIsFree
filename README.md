@@ -20,10 +20,7 @@
 
 <br><br>
 
-![Badge](https://img.shields.io/badge/🎄일상-ffff99.svg?{ style(optional) })
-
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-
+![🎄일상](https://img.shields.io/badge/🎄일상-ffff99)
 
 </p>
 
