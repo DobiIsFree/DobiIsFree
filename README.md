@@ -26,6 +26,8 @@
 
 <br>
 <br>
+                                                        
+<!--
 <img src="https://img.shields.io/badge/YouTube-E7E4E5?style=social&logo=youtube"/>
 
 </p>
@@ -33,7 +35,7 @@
 <br>
 <br>
 
-<!--
+
                                                                                 
 <h3 align="center"><b> 🧸 Skills </b></h3>
 <p align="center">
