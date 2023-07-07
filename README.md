@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/52994616/208122646-d3ac8afa-22bc-4a2d-8788-a937daf5ca1f.jpg" alt="profile2" height="65" r"/>
 
 <br>
-<a href="www.linkedin.com/in/hojeong-eom-9b3bb9190">
+<a href="http://www.linkedin.com/in/hojeong-eom-9b3bb9190">
       <img src="https://user-images.githubusercontent.com/52994616/175568347-18feaf11-ee40-4c06-9e50-1c26deac976e.png" alt="profile" height="170" r"/>
 </a>
 <br>
